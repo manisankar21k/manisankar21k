@@ -6,23 +6,19 @@
 
 </center>
 
-<table>
-  <tr>
-    <td width="65%">
-    
+<div style="display: flex; align-items: center; gap: 20px;">
+  <div style="flex: 1;">
 - 🎓 I have completed **BTech in ECE at SRM University, Kattankulathur, Chennai**
 - 🌱 I'm currently learning **Data Structures and Algorithms (using Java)**
 - 💻 I'm currently working on **Web Development projects**
 - 📫 How to reach me: **manis2003k@gmail.com**
 - 💬 Ask me about **Web Development and APIs**
 - ⚡ All of my projects are available at my GitHub
-
-    </td>
-    <td width="35%">
-      <img src="https://user-images.githubusercontent.com/99302089/233880071-f3571db1-de31-4c90-a8b8-fb5eeab94a6a.gif" alt="Coding GIF" width="100%" />
-    </td>
-  </tr>
-</table>
+  </div>
+  <div style="flex: 1; text-align: center;">
+    <img src="https://user-images.githubusercontent.com/99302089/233880071-f3571db1-de31-4c90-a8b8-fb5eeab94a6a.gif" alt="Coding GIF" width="300" />
+  </div>
+</div>
 
 ### 🔗 Connect with Me
 <p align="center">
@@ -38,8 +34,7 @@
   <a href="https://github.com/manisankar21k">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-</table>
-
+</p>
 ### 🛠️ Languages and Tools
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
