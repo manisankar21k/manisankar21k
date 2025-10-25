@@ -1,11 +1,10 @@
 # Hi there, I'm Manisankar! 👋
 
-**`Electronics & Computer Engineer | Full-Stack Developer`**
+**`I'm a passionate developer from India`**
 
-I'm a passionate developer from India, currently pursuing my BTech in Electronics and Computer Engineering at SRM University, Kattankulathur, Chennai. I love building web applications and solving complex problems through code.
 
-- 🎓 I'm currently pursuing **BTech in ECE at SRM University, Kattankulathur, Chennai**
-- 🌱 I'm currently learning **Data Structures and Algorithms (using C++)**
+- 🎓 I have completed **BTech in ECE at SRM University, Kattankulathur, Chennai**
+- 🌱 I'm currently learning **Data Structures and Algorithms (using Java )**
 - 💻 I'm currently working on **Web Development projects**
 - 📫 How to reach me: **manis2003k@gmail.com**
 - 💬 Ask me about **Web Development and APIs**
@@ -22,7 +21,7 @@ I'm a passionate developer from India, currently pursuing my BTech in Electronic
   <a href="mailto:manis2003k@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://github.com/manisankar">
+  <a href="https://github.com/manisankar21k">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
