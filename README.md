@@ -1,18 +1,20 @@
 <center>
+
 # Hi there, I'm Manisankar! 👋
 
-**`I'm a passionate developer from India`**
+**I'm a passionate developer from India**
+
 </center>
 
 - 🎓 I have completed **BTech in ECE at SRM University, Kattankulathur, Chennai**
-- 🌱 I'm currently learning **Data Structures and Algorithms (using Java )**
+- 🌱 I'm currently learning **Data Structures and Algorithms (using Java)**
 - 💻 I'm currently working on **Web Development projects**
 - 📫 How to reach me: **manis2003k@gmail.com**
 - 💬 Ask me about **Web Development and APIs**
 - ⚡ All of my projects are available at my GitHub
 
 ### 🔗 Connect with Me
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/manisankar21k">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -28,9 +30,10 @@
 </p>
 
 ### 🛠️ Languages and Tools
-<p align="left">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
@@ -43,13 +46,13 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manisankar&show_icons=true&theme=radical&hide_border=true" alt="Manisankar's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=manisankar21k&show_icons=true&theme=radical&hide_border=true" alt="Manisankar's GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manisankar&layout=compact&theme=radical&hide_border=true" alt="Manisankar's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manisankar21k&layout=compact&theme=radical&hide_border=true" alt="Manisankar's Top Languages" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manisankar&theme=radical&hide_border=true" alt="Manisankar's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manisankar21k&theme=radical&hide_border=true" alt="Manisankar's GitHub Streak" />
   <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manisankar&theme=radical&hide_border=true&area=true" alt="Manisankar's Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manisankar21k&theme=radical&hide_border=true&area=true" alt="Manisankar's Contribution Graph" />
 </p>
 
 ### 🏆 LeetCode Stats
@@ -70,9 +73,17 @@
 </div>
 
 ### 💡 Random Dev Quote
-> *"If I had followed my heart instead of advice, dBASE would be much closer to perfection today."*  
-> **- Wayne Ratliff**
+<div align="center">
+  
+*"If I had followed my heart instead of advice, dBASE would be much closer to perfection today."*  
+**- Wayne Ratliff**
+
+</div>
 
 ---
 
-*Last Updated: ${new Date().toLocaleDateString()}*
+<div align="center">
+  
+*Last Updated: January 2024*
+
+</div>
