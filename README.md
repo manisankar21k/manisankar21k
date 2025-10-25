@@ -2,12 +2,12 @@
 
 # Hi there, I'm Manisankar! 👋
 
-**I'm a passionate developer from India**
+**A passionate Developer from India**
 
 </center>
 
-<div style="display: flex; align-items: center; gap: 20px;">
-  <div style="flex: 1;">
+<div style="display: flex; align-items: center; gap: 30px; justify-content: center;">
+  <div style="flex: 1; text-align: left;">
 - 🎓 I have completed **BTech in ECE at SRM University, Kattankulathur, Chennai**
 - 🌱 I'm currently learning **Data Structures and Algorithms (using Java)**
 - 💻 I'm currently working on **Web Development projects**
@@ -35,6 +35,7 @@
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
+
 ### 🛠️ Languages and Tools
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
