@@ -6,11 +6,10 @@
 
 </center>
 
-<div align="center">
-  <table>
-    <tr>
-      <td width="60%" align="left">
-      
+<table>
+  <tr>
+    <td width="65%">
+    
 - 🎓 I have completed **BTech in ECE at SRM University, Kattankulathur, Chennai**
 - 🌱 I'm currently learning **Data Structures and Algorithms (using Java)**
 - 💻 I'm currently working on **Web Development projects**
@@ -18,13 +17,12 @@
 - 💬 Ask me about **Web Development and APIs**
 - ⚡ All of my projects are available at my GitHub
 
-      </td>
-      <td width="40%" align="center">
-        <img src="https://user-images.githubusercontent.com/99302089/233880071-f3571db1-de31-4c90-a8b8-fb5eeab94a6a.gif" alt="Coding GIF" width="300" />
-      </td>
-    </tr>
-  </table>
-</div>
+    </td>
+    <td width="35%">
+      <img src="https://user-images.githubusercontent.com/99302089/233880071-f3571db1-de31-4c90-a8b8-fb5eeab94a6a.gif" alt="Coding GIF" width="100%" />
+    </td>
+  </tr>
+</table>
 
 ### 🔗 Connect with Me
 <p align="center">
@@ -40,7 +38,7 @@
   <a href="https://github.com/manisankar21k">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-</p>
+</table>
 
 ### 🛠️ Languages and Tools
 <p align="center">
