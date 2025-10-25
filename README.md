@@ -6,12 +6,25 @@
 
 </center>
 
+<div align="center">
+  <table>
+    <tr>
+      <td width="60%" align="left">
+      
 - 🎓 I have completed **BTech in ECE at SRM University, Kattankulathur, Chennai**
 - 🌱 I'm currently learning **Data Structures and Algorithms (using Java)**
 - 💻 I'm currently working on **Web Development projects**
 - 📫 How to reach me: **manis2003k@gmail.com**
 - 💬 Ask me about **Web Development and APIs**
 - ⚡ All of my projects are available at my GitHub
+
+      </td>
+      <td width="40%" align="center">
+        <img src="https://user-images.githubusercontent.com/99302089/233880071-f3571db1-de31-4c90-a8b8-fb5eeab94a6a.gif" alt="Coding GIF" width="300" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ### 🔗 Connect with Me
 <p align="center">
