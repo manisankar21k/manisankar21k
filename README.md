@@ -1,16 +1,78 @@
-## Hi there 👋
+# Hi there, I'm Manisankar! 👋
 
-<!--
-**manisankar21k/manisankar21k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Electronics & Computer Engineer | Full-Stack Developer`**
 
-Here are some ideas to get you started:
+I'm a passionate developer from India, currently pursuing my BTech in Electronics and Computer Engineering at SRM University, Kattankulathur, Chennai. I love building web applications and solving complex problems through code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 I'm currently pursuing **BTech in ECE at SRM University, Kattankulathur, Chennai**
+- 🌱 I'm currently learning **Data Structures and Algorithms (using C++)**
+- 💻 I'm currently working on **Web Development projects**
+- 📫 How to reach me: **manis2003k@gmail.com**
+- 💬 Ask me about **Web Development and APIs**
+- ⚡ All of my projects are available at my GitHub
+
+### 🔗 Connect with Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/manisankar21k">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://leetcode.com/u/manisankar21/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  <a href="mailto:manis2003k@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://github.com/manisankar">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+### 🛠️ Languages and Tools
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+</p>
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=manisankar&show_icons=true&theme=radical&hide_border=true" alt="Manisankar's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manisankar&layout=compact&theme=radical&hide_border=true" alt="Manisankar's Top Languages" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manisankar&theme=radical&hide_border=true" alt="Manisankar's GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manisankar&theme=radical&hide_border=true&area=true" alt="Manisankar's Contribution Graph" />
+</p>
+
+### 🏆 LeetCode Stats
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/manisankar21?theme=dark&font=Karma&ext=contest" alt="Manisankar's LeetCode Stats" />
+</p>
+
+### 📈 GitHub Metrics
+<div align="center">
+  
+  **Total Stars Earned:** 4  
+  **Total Commits:** 209  
+  **Total PRs:** 36  
+  **Total Issues:** 6  
+  **Contributed to (last year):** 6  
+  **Total Contributions:** 336+ (Jun 25, 2022 - Present)
+
+</div>
+
+### 💡 Random Dev Quote
+> *"If I had followed my heart instead of advice, dBASE would be much closer to perfection today."*  
+> **- Wayne Ratliff**
+
+---
+
+*Last Updated: ${new Date().toLocaleDateString()}*
