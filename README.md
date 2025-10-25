@@ -1,7 +1,8 @@
+<center>
 # Hi there, I'm Manisankar! 👋
 
 **`I'm a passionate developer from India`**
-
+</center>
 
 - 🎓 I have completed **BTech in ECE at SRM University, Kattankulathur, Chennai**
 - 🌱 I'm currently learning **Data Structures and Algorithms (using Java )**
