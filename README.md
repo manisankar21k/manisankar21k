@@ -1,10 +1,10 @@
 <p align="center">
   
-# Hi there, I'm Manisankar! 👋
+  # Hi there, I'm Manisankar! 👋
 </p>
-  <p align="center">
-    
-**I'm a passionate developer from India**
+<p align="center">
+  
+  **I'm a passionate developer from India**
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=manisankar21k&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
