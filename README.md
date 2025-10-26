@@ -67,7 +67,7 @@
 </p>
 
 ### 📈 Day by Day Contribution
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=manisankar21k&theme=react-dark&hide_border=true&area=true&hide_year=true" alt="Manisankar's Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=manisankar21k&theme=github-dark&bg_color=0D1117&hide_border=true&area=true&area_color=0D1117&line=58A6FF&point=58A6FF&color=58A6FF" alt="Manisankar's Contribution Graph" />
 
 ### 🏆 LeetCode Stats
 <p align="center">
