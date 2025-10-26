@@ -18,7 +18,7 @@
 - 💻 I'm currently working on **Web Development projects**
 - 📫 How to reach me: **manis2003k@gmail.com**
 - 💬 Ask me about **Web Development and APIs**
-- ⚡ All of my projects are available at my GitHub
+
 
     </td>
     <td width="35%">
