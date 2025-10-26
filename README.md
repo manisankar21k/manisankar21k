@@ -84,8 +84,3 @@
 </div>
 ---
 
-<div align="center">
-  
-*Last Updated: *
-
-</div>
