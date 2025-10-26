@@ -31,7 +31,7 @@
 
 ### 🔗 Connect with Me
   <a href="https://www.linkedin.com/in/manisankar21k">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://www.flaticon.com/free-icon/linkedin_3536505?term=linkedin&page=1&position=1&origin=tag&related_id=3536505" alt="LinkedIn"/>
   </a>
   <a href="https://leetcode.com/u/manisankar21/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
