@@ -55,7 +55,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
 </p>
 
-### 📊 GitHub Stats
+
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=manisankar21k&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="Manisankar's GitHub Stats" />
