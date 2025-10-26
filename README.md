@@ -1,15 +1,13 @@
 <p align="center">
-  
-  # Hi there, I'm Manisankar! 👋
+  <h1 align="center">Hi there, I'm Manisankar! 👋</h1>
 </p>
 <p align="center">
-  
-  **I'm a passionate developer from India**
+  <strong>I'm a passionate developer from India</strong>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=manisankar21k&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=manisankar21k&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
 <table>
   <tr>
@@ -76,11 +74,13 @@
 ### 📈 GitHub Metrics
 <div align="center">
   
-  **Total Stars Earned:** 0  
-  **Total Commits:** 64  
-  **Total PRs:** 0  
-  **Total Issues:** 0  
-  **Contributed to:** 0
+| **Metric** | **Count** |
+|------------|-----------|
+| Total Stars Earned | 0 |
+| Total Commits | 64 |
+| Total PRs | 0 |
+| Total Issues | 0 |
+| Contributed to | 0 |
 
 </div>
 
