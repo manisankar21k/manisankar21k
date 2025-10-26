@@ -76,12 +76,11 @@
 ### 📈 GitHub Metrics
 <div align="center">
   
-  **Total Stars Earned:** 4  
-  **Total Commits:** 209  
-  **Total PRs:** 36  
-  **Total Issues:** 6  
-  **Contributed to (last year):** 6  
-  **Total Contributions:** 336+ (Jun 25, 2022 - Present)
+  **Total Stars Earned:** 0  
+  **Total Commits:** 64  
+  **Total PRs:** 0  
+  **Total Issues:** 0  
+  **Contributed to:** 0
 
 </div>
 
