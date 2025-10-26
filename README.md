@@ -58,12 +58,12 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manisankar21k&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" alt="Manisankar's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=manisankar21k&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" alt="Manisankar's GitHub Stats" style="width: 500px; height: 200px;"  />
 
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manisankar21k&layout=compact&theme=radical&hide_border=true" alt="Manisankar's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manisankar21k&layout=compact&theme=radical&hide_border=true" alt="Manisankar's Top Languages" style="width: 500px; height: 200px;"  />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manisankar21k&theme=radical&hide_border=true" alt="Manisankar's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manisankar21k&theme=radical&hide_border=true" alt="Manisankar's GitHub Streak" style="width: 500px; height: 200px;" />
 </p>
 
 ### 📈 Day by Day Contribution
