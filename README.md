@@ -5,9 +5,9 @@
   <strong>I'm a passionate developer from India</strong>
 </p>
 
-<p align="center">
+
   <img src="https://komarev.com/ghpvc/?username=manisankar21k&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+
 
 <table>
   <tr>
@@ -79,11 +79,9 @@
 ### 💡 Random Dev Quote
 <div align="center">
   
-*"If I had followed my heart instead of advice, dBASE would be much closer to perfection today."*  
-**- Wayne Ratliff**
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
-
 ---
 
 <div align="center">
