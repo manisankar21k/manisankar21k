@@ -1,14 +1,13 @@
-<center>
+<p align="center">
 
 # Hi there, I'm Manisankar! 👋
 
 **I'm a passionate developer from India**
-
-</center>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=manisankar21k&label=Profile%20Views&color=ff69b4&style=flat" alt="Profile Views" />
 </p>
+
+<img src="https://komarev.com/ghpvc/?username=manisankar21k&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+
+
 
 <table>
   <tr>
