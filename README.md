@@ -83,7 +83,7 @@
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
----
+
 ### 💻 My Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manisankar21k&repo=your-repo-name&theme=radical)](https://github.com/manisankar21k/your-repo-name)
 
