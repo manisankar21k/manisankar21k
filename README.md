@@ -72,18 +72,9 @@
   <img src="https://leetcard.jacoblin.cool/manisankar21?theme=dark&font=Karma&ext=contest" alt="Manisankar's LeetCode Stats" />
 </p>
 
-### 📈 GitHub Metrics
-<div align="center">
-  
-| **Metric** | **Count** |
-|------------|-----------|
-| Total Stars Earned | 0 |
-| Total Commits | 64 |
-| Total PRs | 0 |
-| Total Issues | 0 |
-| Contributed to | 0 |
 
-</div>
+
+
 
 ### 💡 Random Dev Quote
 <div align="center">
