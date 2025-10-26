@@ -6,6 +6,10 @@
 
 </center>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=manisankar21k&label=Profile%20Views&color=ff69b4&style=flat" alt="Profile Views" />
+</p>
+
 <table>
   <tr>
     <td width="65%">
@@ -23,6 +27,7 @@
     </td>
   </tr>
 </table>
+
 ### 🔗 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/manisankar21k">
