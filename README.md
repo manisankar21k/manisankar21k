@@ -65,6 +65,8 @@
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=manisankar21k&theme=radical&hide_border=true" alt="Manisankar's GitHub Streak" />
 </p>
+
+### 📈 Day by Day Contribution
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=manisankar21k&theme=radical&hide_border=true&area=true&hide_year=true" alt="Manisankar's Contribution Graph" />
 </p>
 
@@ -73,22 +75,13 @@
   <img src="https://leetcard.jacoblin.cool/manisankar21?theme=dark&font=Karma&ext=contest" alt="Manisankar's LeetCode Stats" />
 </p>
 
-
-
-
-
-### 💡 Random Dev Quote
+ ### 💡 Random Dev Quote
 <div align="center">
   
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
 
-### 💻 My Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manisankar21k&repo=your-repo-name&theme=radical)](https://github.com/manisankar21k/your-repo-name)
 
-### 🔥 GitHub Streak
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manisankar21k&theme=radical&hide_border=true" alt="Manisankar's GitHub Streak" />
-</p>
+
 
