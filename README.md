@@ -58,7 +58,7 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manisankar21k&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="Manisankar's GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manisankar21k&theme=radical" alt="Manisankar's GitHub Stats" />
 </p>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manisankar21k&layout=compact&theme=radical&hide_border=true" alt="Manisankar's Top Languages" />
