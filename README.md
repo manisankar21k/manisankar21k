@@ -65,7 +65,7 @@
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=manisankar21k&theme=radical&hide_border=true" alt="Manisankar's GitHub Streak" />
   <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manisankar21k&theme=radical&hide_border=true&area=true" alt="Manisankar's Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manisankar21k&theme=radical&hide_border=true&area=true&hide_year=true" alt="Manisankar's Contribution Graph" />
 </p>
 
 ### 🏆 LeetCode Stats
