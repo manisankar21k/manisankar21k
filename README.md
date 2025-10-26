@@ -1,7 +1,9 @@
 <p align="center">
   
 # Hi there, I'm Manisankar! 👋
-  
+</p>
+  <p align="center">
+    
 **I'm a passionate developer from India**
 </p>
 
