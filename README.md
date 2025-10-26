@@ -97,6 +97,6 @@
 
 <div align="center">
   
-*Last Updated: January 2024*
+*Last Updated: *
 
 </div>
